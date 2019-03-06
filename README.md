@@ -5,10 +5,10 @@
 
 [수리통계학](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791158080129) (송성주,전명식 / 자유아카데미) 정리
 
- - 1장 [확률이론](./01_probability-theory.ipynb) (진행중)  
- - 2장 [확률변수 및 그의 분포](./02_probability-variables-and-distributions.ipynb)  
- - 3장 [표본분포](./03_sampling_distribution.ipynb)  
- - 4장 [추정이론](./04_estimation_theory.ipynb) (구간추정 skip)  
+ - 1장 [확률이론](https://nbviewer.jupyter.org/github/bt22dr/Mathematical-Statistics/blob/master/01_probability-theory.ipynb) (진행중)  
+ - 2장 [확률변수 및 그의 분포](https://nbviewer.jupyter.org/github/bt22dr/Mathematical-Statistics/blob/master/02_probability-variables-and-distributions.ipynb)  
+ - 3장 [표본분포](https://nbviewer.jupyter.org/github/bt22dr/Mathematical-Statistics/blob/master/03_sampling_distribution.ipynb)  
+ - 4장 [추정이론](https://nbviewer.jupyter.org/github/bt22dr/Mathematical-Statistics/blob/master/04_estimation_theory.ipynb) (구간추정 skip)  
  - 5장 가설검정 
  - 6장 분산분석 
  - 7장 선형 회귀분석 
